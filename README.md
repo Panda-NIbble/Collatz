@@ -1,0 +1,2 @@
+# Collatz
+The small project
